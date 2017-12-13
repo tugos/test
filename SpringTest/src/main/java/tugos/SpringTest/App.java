@@ -6,6 +6,6 @@ package tugos.SpringTest;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Spring Test");
+		System.out.println("Spring Test 3");
 	}
 }
